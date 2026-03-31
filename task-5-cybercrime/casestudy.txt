@@ -1,0 +1,18 @@
+Cybercrime Case Study: Phishing Attack
+
+Phishing is one of the most common cybercrimes where attackers try to steal sensitive information such as passwords, bank details, or personal data by pretending to be a trusted source.
+
+In this case, a student received an email that looked like it was from a bank. The email asked the user to update account details urgently and provided a link. Without verifying the sender, the student clicked on the link and entered login credentials.
+
+Later, it was discovered that the website was fake and the information was stolen. This led to unauthorized access to the account and financial loss.
+
+This case shows that even simple mistakes like clicking unknown links can lead to serious consequences.
+
+Lessons Learned:
+- Always verify the sender before taking action
+- Avoid clicking on suspicious links
+- Check website URLs carefully
+- Do not share personal or financial information online
+
+Conclusion:
+Cyber awareness and careful behavior are essential to avoid such attacks. Users must stay alert and follow safe online practices.
